@@ -1,0 +1,15 @@
+/Users/kathybroderick/Projects/OneLinePuzzleSolver/OneLinePuzzleSolver/bin/Debug/net7.0/OneLinePuzzleSolver
+/Users/kathybroderick/Projects/OneLinePuzzleSolver/OneLinePuzzleSolver/bin/Debug/net7.0/OneLinePuzzleSolver.deps.json
+/Users/kathybroderick/Projects/OneLinePuzzleSolver/OneLinePuzzleSolver/bin/Debug/net7.0/OneLinePuzzleSolver.runtimeconfig.json
+/Users/kathybroderick/Projects/OneLinePuzzleSolver/OneLinePuzzleSolver/bin/Debug/net7.0/OneLinePuzzleSolver.dll
+/Users/kathybroderick/Projects/OneLinePuzzleSolver/OneLinePuzzleSolver/bin/Debug/net7.0/OneLinePuzzleSolver.pdb
+/Users/kathybroderick/Projects/OneLinePuzzleSolver/OneLinePuzzleSolver/obj/Debug/net7.0/OneLinePuzzleSolver.csproj.AssemblyReference.cache
+/Users/kathybroderick/Projects/OneLinePuzzleSolver/OneLinePuzzleSolver/obj/Debug/net7.0/OneLinePuzzleSolver.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kathybroderick/Projects/OneLinePuzzleSolver/OneLinePuzzleSolver/obj/Debug/net7.0/OneLinePuzzleSolver.AssemblyInfoInputs.cache
+/Users/kathybroderick/Projects/OneLinePuzzleSolver/OneLinePuzzleSolver/obj/Debug/net7.0/OneLinePuzzleSolver.AssemblyInfo.cs
+/Users/kathybroderick/Projects/OneLinePuzzleSolver/OneLinePuzzleSolver/obj/Debug/net7.0/OneLinePuzzleSolver.csproj.CoreCompileInputs.cache
+/Users/kathybroderick/Projects/OneLinePuzzleSolver/OneLinePuzzleSolver/obj/Debug/net7.0/OneLinePuzzleSolver.dll
+/Users/kathybroderick/Projects/OneLinePuzzleSolver/OneLinePuzzleSolver/obj/Debug/net7.0/refint/OneLinePuzzleSolver.dll
+/Users/kathybroderick/Projects/OneLinePuzzleSolver/OneLinePuzzleSolver/obj/Debug/net7.0/OneLinePuzzleSolver.pdb
+/Users/kathybroderick/Projects/OneLinePuzzleSolver/OneLinePuzzleSolver/obj/Debug/net7.0/OneLinePuzzleSolver.genruntimeconfig.cache
+/Users/kathybroderick/Projects/OneLinePuzzleSolver/OneLinePuzzleSolver/obj/Debug/net7.0/ref/OneLinePuzzleSolver.dll
