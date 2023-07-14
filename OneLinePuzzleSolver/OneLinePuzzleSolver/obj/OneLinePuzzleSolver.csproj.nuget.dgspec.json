@@ -1,26 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kathybroderick/Projects/OneLinePuzzleSolver/OneLinePuzzleSolver/OneLinePuzzleSolver.csproj": {}
+    "D:\\Users\\Kathy Broderick\\GitHub\\OneLinePuzzleSolver\\OneLinePuzzleSolver\\OneLinePuzzleSolver\\OneLinePuzzleSolver.csproj": {}
   },
   "projects": {
-    "/Users/kathybroderick/Projects/OneLinePuzzleSolver/OneLinePuzzleSolver/OneLinePuzzleSolver.csproj": {
+    "D:\\Users\\Kathy Broderick\\GitHub\\OneLinePuzzleSolver\\OneLinePuzzleSolver\\OneLinePuzzleSolver\\OneLinePuzzleSolver.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kathybroderick/Projects/OneLinePuzzleSolver/OneLinePuzzleSolver/OneLinePuzzleSolver.csproj",
+        "projectUniqueName": "D:\\Users\\Kathy Broderick\\GitHub\\OneLinePuzzleSolver\\OneLinePuzzleSolver\\OneLinePuzzleSolver\\OneLinePuzzleSolver.csproj",
         "projectName": "OneLinePuzzleSolver",
-        "projectPath": "/Users/kathybroderick/Projects/OneLinePuzzleSolver/OneLinePuzzleSolver/OneLinePuzzleSolver.csproj",
-        "packagesPath": "/Users/kathybroderick/.nuget/packages/",
-        "outputPath": "/Users/kathybroderick/Projects/OneLinePuzzleSolver/OneLinePuzzleSolver/obj/",
+        "projectPath": "D:\\Users\\Kathy Broderick\\GitHub\\OneLinePuzzleSolver\\OneLinePuzzleSolver\\OneLinePuzzleSolver\\OneLinePuzzleSolver.csproj",
+        "packagesPath": "C:\\Users\\Kathy Broderick\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\Kathy Broderick\\GitHub\\OneLinePuzzleSolver\\OneLinePuzzleSolver\\OneLinePuzzleSolver\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/Users/kathybroderick/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Kathy Broderick\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -44,17 +50,11 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.304/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     }
